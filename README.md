@@ -1,5 +1,12 @@
 # CLIPBOARD
 
+## Dependencies
+1. keyboard
+2. xerox
+3. psycopg2
+4. flask
+5. flask_cors
+
 ## Installation
 Install dependencies using `pip install dependency-name`. 
 
