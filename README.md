@@ -1,7 +1,9 @@
 # CLIPBOARD
 
 ## Installation
-Install dependencies using `pip install dependency-name`
+Install dependencies using `pip install dependency-name`. 
+
+Db connectivity is needed to save copied texts. Database used is postgreSQL. Change DB connection in clipboard.py and clipboard_server.py 
 
 ## Steps to start the application
 
