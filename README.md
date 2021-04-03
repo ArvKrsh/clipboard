@@ -1,5 +1,7 @@
 # CLIPBOARD
 
+Multi clipboard which copies any number of text, keeps them in stack so you can use any of them at anytime quickly.
+
 ## Dependencies
 1. keyboard
 2. xerox
